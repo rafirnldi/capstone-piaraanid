@@ -4,4 +4,4 @@ gunicorn==20.1.0
 numpy
 pillow
 tensorflow
-yaml
+
